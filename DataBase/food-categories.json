@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "category": "Fruits",
+        "description": "Fruits are nature's sweet and edible parts of plants that contain seeds. They are rich in vitamins, fiber, and antioxidants."
+    },
+    {
+        "id": 2,
+        "category": "Vegetables",
+        "description": "Vegetables are edible parts of plants, such as leaves, stems, roots, and flowers. They are essential for a balanced diet and provide vital nutrients."
+    },
+    {
+        "id": 3,
+        "category": "Dairy",
+        "description": "Dairy products are foods made from milk, such as cheese, yogurt, and butter. They are a good source of calcium and protein."
+    },
+    {
+        "id": 4,
+        "category": "Meat",
+        "description": "Meat includes animal flesh consumed as food, including beef, pork, lamb, and poultry. It is a rich source of protein and essential nutrients."
+    },
+    {
+        "id": 5,
+        "category": "Seafood",
+        "description": "Seafood includes fish, shellfish, and other sea creatures consumed as food. It is known for its high-quality protein and omega-3 fatty acids."
+    },
+    {
+        "id": 6,
+        "category": "Grains",
+        "description": "Grains are small, hard, and edible seeds from cereal crops, such as wheat, rice, oats, and quinoa. They are a staple food in many diets."
+    },
+    {
+        "id": 7,
+        "category": "Legumes",
+        "description": "Legumes are plants with seeds that grow in pods, such as beans, lentils, and chickpeas. They are an excellent source of plant-based protein."
+    },
+    {
+        "id": 8,
+        "category": "Nuts and Seeds",
+        "description": "Nuts and seeds are small, edible, and nutrient-dense foods. They are rich in healthy fats, protein, vitamins, and minerals."
+    },
+    {
+        "id": 9,
+        "category": "Beverages",
+        "description": "Beverages include liquids that are consumed for hydration, refreshment, and nutrition, such as water, juice, tea, and coffee."
+    },
+    {
+        "id": 10,
+        "category": "Snacks",
+        "description": "Snacks are small portions of food eaten between meals, often for quick energy or pleasure. They include items like chips, nuts, and granola bars."
+    }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "age": 30,
+    "address": {
+      "street": "123 Elm Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701"
+    }
+  },
+  {
+    "name": "Diana Prince",
+    "email": "diana.prince@example.com",
+    "age": 28,
+    "address": {
+      "street": "321 Maple Drive",
+      "city": "Star City",
+      "state": "CA",
+      "zip": "90001"
+    },
+    "id": 2
+  }
+]
