@@ -342,7 +342,7 @@ app.post('/employee', (req, res) => {
  *         application/json:
  *           schema:
  *             $ref: '#/components/schemas/FoodCategory'
- * /api/food-categories:
+ * /food-categories:
  *   get:
  *     summary: Get all food categories
  *     responses:
