@@ -26,13 +26,7 @@ app.use(cors());
 const allowedOrigins = ['http://localhost:9000', 'https://food-api-backend.onrender.com/']; // Add your allowed origins here
 
 app.use(cors({
-  origin: function (origin, callback) {
-    if (!origin || allowedOrigins.indexOf(origin) !== -1) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
+  origin: '*',
   credentials: true // Enable sending of cookies across domains
 }));
 
