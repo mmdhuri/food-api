@@ -23,7 +23,7 @@ app.use(cors());
 //   credentials: true // Enable sending of cookies across domains
 // }));
 
-const allowedOrigins = ['http://localhost:9000', 'https://food-api-backend.onrender.com/']; // Add your allowed origins here
+const allowedOrigins = ['http://localhost:9000', 'https://food-api-backend.onrender.com']; // Add your allowed origins here
 
 app.use(cors({
   origin: '*',
@@ -48,7 +48,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: 'http://localhost:3000',
+      url: 'https://food-api-backend.onrender.com',
     },
   ],
 };
