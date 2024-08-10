@@ -25,6 +25,7 @@ app.use(cors());
 
 const allowedOrigins = ['http://localhost:9000', 'https://food-api-backend.onrender.com']; // Add your allowed origins here
 
+
 app.use(cors({
   origin: '*',
   credentials: true // Enable sending of cookies across domains
